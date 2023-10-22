@@ -1,0 +1,2 @@
+export const POLLING_INTERVAL = 30000;
+export const REFETCH_ON_MOUNT_INTERVAL = 60;
